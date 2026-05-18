@@ -1,0 +1,2 @@
+iso_ts,t_perf,sample_idx,fsr1,fsr2,fsr3,fsr4,event,lane,detail
+2025-10-03T14:40:56.417472,1353.217757,-1,0,0,0,0,stim,2,trial=1

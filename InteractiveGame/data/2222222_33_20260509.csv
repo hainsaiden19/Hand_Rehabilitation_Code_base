@@ -1,0 +1,7 @@
+participant,age,block,trial,lane,is_multi_lane,time_difference_ms,early_late,points,feedback,error_type,keys_pressed,correct_keys,num_presses,had_incorrect_press,first_incorrect_ms
+2222222,33,pretest,1,n,FALSE,1005.62,Miss,-2,Miss!,timeout,,n,0,FALSE,
+2222222,33,pretest,2,m,FALSE,1011.16,Miss,-2,Miss!,timeout,,m,0,FALSE,
+2222222,33,pretest,3,m,FALSE,1005.53,Miss,-2,Miss!,timeout,,m,0,FALSE,
+2222222,33,pretest,4,m,FALSE,1005.93,Miss,-2,Miss!,timeout,,m,0,FALSE,
+2222222,33,pretest,5,v,FALSE,1012.58,Miss,-2,Miss!,timeout,,v,0,FALSE,
+2222222,33,pretest,6,n,FALSE,1015.79,Miss,-2,Miss!,timeout,,n,0,FALSE,
